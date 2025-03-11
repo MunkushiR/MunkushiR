@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=munkushir" alt="munkushir" /></a> </p>
 
-- 🌱 I’m currently learning Python, php, Dart with Flutter
+- 🌱 I’m currently learning Python, Dart and Flutter
 
-- 💬 Ask me about **React, Ruby,javascript**
+- 💬 Ask me about **React, Ruby,javascript,PhP**
 
 - 📫 How to reach me **naserianmunkushi@gmail.com**
 
